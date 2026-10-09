@@ -1,6 +1,6 @@
 # Attribution and citation
 
-The Rule 30 center-column problems are attributed to Stephen Wolfram and the Wolfram Foundation. Their [official prize page](https://rule30prize.org/) gives the problems and submission rules. This repository is an independent Beedbyte / School Scotty research and code package; it has no stated affiliation with the prize organizers.
+The Rule 30 center-column problems are attributed to Stephen Wolfram and the Wolfram Foundation. Their [official prize page](https://rule30prize.org/) gives the problems and submission rules. This repository is an independent Beedbyte research and code package; it has no stated affiliation with the prize organizers.
 
 If using the code or specification, cite **Beedbyte, _Rule 30 center-column research_**, the exact GitHub repository URL and commit hash used, and the date accessed. No DOI or journal publication is assigned to this package.
 

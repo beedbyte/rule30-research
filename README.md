@@ -28,6 +28,10 @@ python -m unittest discover -s src -p 'test_*.py'
 
 This first public package deliberately contains the specification, finite evolvers, and tests. It does not include ongoing proof drafts, large experimental datasets, or unreviewed prize claims. [SOURCE_MANIFEST.md](SOURCE_MANIFEST.md) records the exact local source files and hashes; [TEST_REPORT.md](TEST_REPORT.md) records the checks run on this staged copy.
 
-The Rule 30 center-column prize questions are posed by Stephen Wolfram and the Wolfram Foundation; see [the official prize page](https://rule30prize.org/) and [Wolfram's 2019 announcement](https://writings.stephenwolfram.com/2019/10/announcing-the-rule-30-prizes/). This repository's code and explanatory text were prepared by **Beedbyte / School Scotty**. AI tools assisted drafting and coding; the included tests and source manifest make the finite computational claims inspectable. See [ATTRIBUTION.md](ATTRIBUTION.md) for citation guidance.
+The Rule 30 center-column prize questions are posed by Stephen Wolfram and the Wolfram Foundation; see [the official prize page](https://rule30prize.org/) and [Wolfram's 2019 announcement](https://writings.stephenwolfram.com/2019/10/announcing-the-rule-30-prizes/). This repository's code and explanatory text were prepared by **Beedbyte**.
+
+## Methods
+
+AI tools assisted drafting and coding for this finite simulation package; the included tests and source manifest make the finite computational claims inspectable. See [ATTRIBUTION.md](ATTRIBUTION.md) for citation guidance.
 
 Website: [beedbyte.tech](https://beedbyte.tech)
